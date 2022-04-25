@@ -16,7 +16,7 @@ Resultado do projeto: CRUD BASICO DE SERIES.
 
 - Me sinto realizado apos a conclusão dessa V1 do Projeto, ao longo dos dias estarei implementando algumas coisas, para complexar mais os estudos
 
-Durante a realização, tive algumas dificuldades, onde estava ocorrendo algums erros na parte de conciliar as classes e propriedades.
+Durante a realização, tive algumas dificuldades, onde estava ocorrendo alguns erros na parte de conciliar as classes e propriedades.
 Porem depois de um tempo, decidi refazer o codigo novamente e encontrei o erro, satisfeito com o que foi feito.
 
 Irei utilizar uma parte desse projeto em projetos futuros (Cenas dos próximos capÍtulos😉) 
