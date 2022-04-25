@@ -1,5 +1,5 @@
 # CRUD-BASICO---SERIES
-Fiz esse projeto utilizando a seguinte Liguagem C# (CSharp) 
+Fiz esse projeto utilizando a seguinte Linguagem C# (CSharp) 
 
 # CRUD BASICO DE SERIES
 
@@ -11,7 +11,7 @@ Resultado do projeto: CRUD BASICO DE SERIES.
 
 ## 📋 Descrição
 
-- Fiz esse projeto utilizando a seguinte Liguagem C#.
+- Fiz esse projeto utilizando a seguinte Linguagem C#.
 - Esse projeto foi o resultado de um dos modulos praticos do bootcamp realizado pela DIO Digital Innovation One.
 
 - Me sinto realizado apos a conclusão dessa V1 do Projeto, ao longo dos dias estarei implementando algumas coisas, para complexar mais os estudos
@@ -26,7 +26,7 @@ Irei utilizar uma parte desse projeto em projetos futuros (Cenas dos próximos c
 <code><img height="32" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></code> 
 <code><img height="32" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Dotnet"/></code>
 
-## Link para testar a Pokedex-V1
+## Link para testar o Console
 
 Link: (https://devalanm.github.io/crud-basico---series/)<br>
 
