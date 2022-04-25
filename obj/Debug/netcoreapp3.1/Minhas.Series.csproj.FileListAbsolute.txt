@@ -1,0 +1,14 @@
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\bin\Debug\netcoreapp3.1\Minhas.Series.exe
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\bin\Debug\netcoreapp3.1\Minhas.Series.deps.json
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\bin\Debug\netcoreapp3.1\Minhas.Series.runtimeconfig.json
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\bin\Debug\netcoreapp3.1\Minhas.Series.runtimeconfig.dev.json
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\bin\Debug\netcoreapp3.1\Minhas.Series.dll
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\bin\Debug\netcoreapp3.1\Minhas.Series.pdb
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\obj\Debug\netcoreapp3.1\Minhas.Series.csproj.AssemblyReference.cache
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\obj\Debug\netcoreapp3.1\Minhas.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\obj\Debug\netcoreapp3.1\Minhas.Series.AssemblyInfoInputs.cache
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\obj\Debug\netcoreapp3.1\Minhas.Series.AssemblyInfo.cs
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\obj\Debug\netcoreapp3.1\Minhas.Series.csproj.CoreCompileInputs.cache
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\obj\Debug\netcoreapp3.1\Minhas.Series.dll
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\obj\Debug\netcoreapp3.1\Minhas.Series.pdb
+C:\Users\alanm\OneDrive\Área de Trabalho\CRUD BÁSICO - Series\obj\Debug\netcoreapp3.1\Minhas.Series.genruntimeconfig.cache
